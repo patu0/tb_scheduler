@@ -31,12 +31,23 @@ class Bullet:
     def __init__(self,content):
         self.content = content
 
+class User:
+    def __init__(self,day_start_time, day_end_time):
+        self.day_start_time = day_start_time
+        self.day_end_time = day_end_time
+
+class DayCalendar:
+    def __init__(self):
+        self.day_blocks = list(range(0,(24*60)+1))
+
+
+
+
 if __name__ == "__main__":
     # import a .txt or .md file
     
     # parse text and append each 
     # split each bullet into a class
-    bullets = 
     # Parse Tasks and Events Recipe 
     for bullet in bullets:
         print(bullet)

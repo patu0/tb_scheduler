@@ -1,4 +1,5 @@
-- 1 hour dance
-- 2 hour read
-- 15 minutes kill
+- 1-hour dance
+- 2-hour read
+- 15-minutes kill
 - meal prep
+- 12PM-1PM Work on project
