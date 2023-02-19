@@ -1,2 +1,2 @@
 # tb_scheduler
-text-based scheduler
+text-based scheduler prototype
