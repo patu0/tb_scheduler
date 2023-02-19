@@ -1,0 +1,4 @@
+- 1 hour dance
+- 2 hour read
+- 15 minutes kill
+- meal prep
